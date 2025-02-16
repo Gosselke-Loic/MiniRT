@@ -1,1 +1,1 @@
-To working project, need to add lbft and mlx mac.
+Need to add libft and mlx for working
